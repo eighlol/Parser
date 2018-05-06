@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Products>
+<Product>
+    <id>1</id><Name>Sole - Dover, Whole, Fresh</Name>
+    <Description>Subcutaneous fat necrosis due to birth injury</Description>
+    <Price>
+      <Value>60</Value><Discount>65</Discount><Currency>IDR</Currency>
+    </Price>
+    <Category>
+      <Name>Tools</Name>
+    </Category>
+    <Shipping>
+      <Price>14</Price><Currency>CNY</Currency>
+      <Method>
+        <Name>PowerShares KBW Bank Portfolio</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/127x193.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>2</id><Name>Pepperoni Slices</Name>
+    <Description>Rapidly progressive nephritic syndrome with unspecified morphologic changes</Description>
+    <Price>
+      <Value>15</Value><Discount>80</Discount><Currency>BAM</Currency>
+    </Price>
+    <Category>
+      <Name>Computers</Name>
+    </Category>
+    <Shipping>
+      <Price>63</Price><Currency>MKD</Currency>
+      <Method>
+        <Name>Therapix Biosciences Ltd.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/225x231.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>3</id><Name>Raisin - Golden</Name><Description>Postprocedural ovarian failure</Description>
+    <Price>
+      <Value>41</Value><Discount>11</Discount><Currency>RSD</Currency>
+    </Price>
+    <Category>
+      <Name>Electronics</Name>
+    </Category>
+    <Shipping>
+      <Price>58</Price><Currency>IRR</Currency>
+      <Method>
+        <Name>Brady Corporation</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/150x136.jpg/5fa2dd/ffffff</ImageUrl>
+  </Product>
+</Products>

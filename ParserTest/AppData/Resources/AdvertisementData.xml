@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Products>
+<Product>
+    <id>1</id><Name>Sole - Dover, Whole, Fresh</Name>
+    <Description>Subcutaneous fat necrosis due to birth injury</Description>
+    <Price>
+      <Value>60</Value><Discount>65</Discount><Currency>IDR</Currency>
+    </Price>
+    <Category>
+      <Name>Tools</Name>
+    </Category>
+    <Shipping>
+      <Price>14</Price><Currency>CNY</Currency>
+      <Method>
+        <Name>PowerShares KBW Bank Portfolio</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/127x193.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>2</id><Name>Pepperoni Slices</Name>
+    <Description>Rapidly progressive nephritic syndrome with unspecified morphologic changes</Description>
+    <Price>
+      <Value>15</Value><Discount>80</Discount><Currency>BAM</Currency>
+    </Price>
+    <Category>
+      <Name>Computers</Name>
+    </Category>
+    <Shipping>
+      <Price>63</Price><Currency>MKD</Currency>
+      <Method>
+        <Name>Therapix Biosciences Ltd.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/225x231.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>3</id><Name>Raisin - Golden</Name><Description>Postprocedural ovarian failure</Description>
+    <Price>
+      <Value>41</Value><Discount>11</Discount><Currency>RSD</Currency>
+    </Price>
+    <Category>
+      <Name>Electronics</Name>
+    </Category>
+    <Shipping>
+      <Price>58</Price><Currency>IRR</Currency>
+      <Method>
+        <Name>Brady Corporation</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/150x136.jpg/5fa2dd/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>4</id><Name>Pastry - French Mini Assorted</Name>
+    <Description>Other traumatic nondisplaced spondylolisthesis of third cervical vertebra, subsequent encounter for fracture with nonunion</Description>
+    <Price>
+      <Value>61</Value><Discount>19</Discount><Currency>CNY</Currency>
+    </Price>
+    <Category>
+      <Name>Jewelery</Name>
+    </Category>
+    <Shipping>
+      <Price>47</Price><Currency>ILS</Currency>
+      <Method>
+        <Name>CPFL Energia S.A.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/231x142.jpg/ff4444/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>5</id><Name>Lamb Rack - Ontario</Name>
+    <Description>Unspecified fracture of T11-T12 vertebra, subsequent encounter for fracture with delayed healing</Description>
+    <Price>
+      <Value>32</Value><Discount>3</Discount><Currency>CNY</Currency>
+    </Price>
+    <Category>
+      <Name>Home</Name>
+    </Category>
+    <Shipping>
+      <Price>2</Price><Currency>PEN</Currency>
+      <Method>
+        <Name>PowerShares 1-30 Laddered Treasury Portfolio</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/172x231.jpg/5fa2dd/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>6</id><Name>Brandy Cherry - Mcguinness</Name><Description>Round hole of retina without detachment</Description>
+    <Price>
+      <Value>12</Value><Discount>35</Discount><Currency>SEK</Currency>
+    </Price>
+    <Category>
+      <Name>Grocery</Name>
+    </Category>
+    <Shipping>
+      <Price>50</Price><Currency>PHP</Currency>
+      <Method>
+        <Name>Lithia Motors, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/122x110.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>7</id><Name>Juice - Apple, 341 Ml</Name>
+    <Description>Direct infection of left hand in infectious and parasitic diseases classified elsewhere</Description>
+    <Price>
+      <Value>0</Value><Discount>2</Discount><Currency>EUR</Currency>
+    </Price>
+    <Category>
+      <Name>Grocery</Name>
+    </Category>
+    <Shipping>
+      <Price>83</Price><Currency>CNY</Currency>
+      <Method>
+        <Name>Liberty Expedia Holdings, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/229x174.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>8</id><Name>Mackerel Whole Fresh</Name>
+    <Description>Subluxation of tarsal joint of unspecified foot</Description>
+    <Price>
+      <Value>74</Value><Discount>71</Discount><Currency>BRL</Currency>
+    </Price>
+    <Category>
+      <Name>Outdoors</Name>
+    </Category>
+    <Shipping>
+      <Price>25</Price><Currency>EUR</Currency>
+      <Method>
+        <Name>Medpace Holdings, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/176x136.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>9</id><Name>Vermouth - White, Cinzano</Name>
+    <Description>Displaced fracture of lateral condyle of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion</Description>
+    <Price>
+      <Value>73</Value><Discount>20</Discount><Currency>IDR</Currency>
+    </Price>
+    <Category>
+      <Name>Grocery</Name>
+    </Category>
+    <Shipping>
+      <Price>16</Price><Currency>VND</Currency>
+      <Method>
+        <Name>Delaware Investments Dividend &amp; Income Fund, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/169x215.jpg/ff4444/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>10</id><Name>Jameson Irish Whiskey</Name>
+    <Description>Burn of third degree of multiple sites of unspecified shoulder and upper limb, except wrist and hand</Description>
+    <Price>
+      <Value>4</Value><Discount>46</Discount><Currency>PLN</Currency>
+    </Price>
+    <Category>
+      <Name>Computers</Name>
+    </Category>
+    <Shipping>
+      <Price>47</Price><Currency>IDR</Currency>
+      <Method>
+        <Name>Yirendai Ltd.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/140x249.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>11</id><Name>Spice - Peppercorn Melange</Name>
+    <Description>Arthropathy following intestinal bypass, left elbow</Description>
+    <Price>
+      <Value>15</Value><Discount>82</Discount><Currency>NOK</Currency>
+    </Price>
+    <Category>
+      <Name>Shoes</Name>
+    </Category>
+    <Shipping>
+      <Price>34</Price><Currency>JPY</Currency>
+      <Method>
+        <Name>Meredith Corporation</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/235x211.jpg/ff4444/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>12</id><Name>Sugar - Palm</Name>
+    <Description>Poisoning by unspecified psychotropic drug, undetermined, sequela</Description>
+    <Price>
+      <Value>85</Value><Discount>89</Discount><Currency>IDR</Currency>
+    </Price>
+    <Category>
+      <Name>Shoes</Name>
+    </Category>
+    <Shipping>
+      <Price>68</Price><Currency>IDR</Currency>
+      <Method>
+        <Name>Helen of Troy Limited</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/173x227.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>13</id><Name>Cheese Cheddar Processed</Name>
+    <Description>Laceration of blood vessel of unspecified finger, subsequent encounter</Description>
+    <Price>
+      <Value>45</Value><Discount>79</Discount><Currency>RSD</Currency>
+    </Price>
+    <Category>
+      <Name>Health</Name>
+    </Category>
+    <Shipping>
+      <Price>44</Price><Currency>UGX</Currency>
+      <Method>
+        <Name>Macerich Company (The)</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/223x153.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>14</id><Name>Steampan - Lid For Half Size</Name>
+    <Description>Polyhydramnios, first trimester, fetus 2</Description>
+    <Price>
+      <Value>65</Value><Discount>24</Discount><Currency>PHP</Currency>
+    </Price>
+    <Category>
+      <Name>Shoes</Name>
+    </Category>
+    <Shipping>
+      <Price>85</Price><Currency>PHP</Currency>
+      <Method>
+        <Name>EPR Properties</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/172x211.jpg/ff4444/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>15</id><Name>Sausage - Liver</Name>
+    <Description>Corrosion of second degree of right elbow, subsequent encounter</Description>
+    <Price>
+      <Value>42</Value><Discount>46</Discount><Currency>UAH</Currency>
+    </Price>
+    <Category>
+      <Name>Kids</Name>
+    </Category>
+    <Shipping>
+      <Price>61</Price><Currency>BRL</Currency>
+      <Method>
+        <Name>argenx SE</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/211x242.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>16</id><Name>Pastry - Mini French Pastries</Name>
+    <Description>Other intraoperative and postprocedural complications and disorders of digestive system</Description>
+    <Price>
+      <Value>55</Value><Discount>15</Discount><Currency>CNY</Currency>
+    </Price>
+    <Category>
+      <Name>Games</Name>
+    </Category>
+    <Shipping>
+      <Price>20</Price><Currency>CNY</Currency>
+      <Method>
+        <Name>Etsy, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/118x180.jpg/ff4444/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>17</id><Name>Bread Roll Foccacia</Name><Description>Spasm of accommodation, left eye</Description>
+    <Price>
+      <Value>57</Value><Discount>20</Discount><Currency>CNY</Currency>
+    </Price>
+    <Category>
+      <Name>Kids</Name>
+    </Category>
+    <Shipping>
+      <Price>14</Price><Currency>IDR</Currency>
+      <Method>
+        <Name>DRDGOLD Limited</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/104x234.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>18</id><Name>Sansho Powder</Name>
+    <Description>Other marginal perforations of tympanic membrane, left ear</Description>
+    <Price>
+      <Value>49</Value><Discount>81</Discount><Currency>CNY</Currency>
+    </Price>
+    <Category>
+      <Name>Games</Name>
+    </Category>
+    <Shipping>
+      <Price>92</Price><Currency>CNY</Currency>
+      <Method>
+        <Name>iShares MSCI UAE Capped ETF</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/144x149.jpg/dddddd/000000</ImageUrl>
+  </Product>
+  <Product>
+    <id>19</id><Name>Split Peas - Green, Dry</Name>
+    <Description>Laceration of muscle and tendon of front wall of thorax</Description>
+    <Price>
+      <Value>94</Value><Discount>25</Discount><Currency>NOK</Currency>
+    </Price>
+    <Category>
+      <Name>Electronics</Name>
+    </Category>
+    <Shipping>
+      <Price>61</Price><Currency>MKD</Currency>
+      <Method>
+        <Name>AT&amp;T Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/170x130.jpg/5fa2dd/ffffff</ImageUrl>
+  </Product>
+  <Product>
+    <id>20</id><Name>Wine - Niagara Peninsula Vqa</Name>
+    <Description>Glasgow coma scale score 13-15, at arrival to emergency department</Description>
+    <Price>
+      <Value>100</Value><Discount>10</Discount><Currency>RUB</Currency>
+    </Price>
+    <Category>
+      <Name>Tools</Name>
+    </Category>
+    <Shipping>
+      <Price>24</Price><Currency>IDR</Currency>
+      <Method>
+        <Name>AmTrust Financial Services, Inc.</Name>
+      </Method>
+    </Shipping>
+    <ImageUrl>http://dummyimage.com/231x241.jpg/cc0000/ffffff</ImageUrl>
+  </Product>
+</Products>

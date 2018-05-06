@@ -5,10 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20180504131507_Initial.cs" />
+    <Compile Remove="Migrations\20180504131507_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20180504133340_Initial.cs" />
+    <Compile Remove="Migrations\20180504133340_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Infrastructure\Extractors\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="InstaSharper" Version="1.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
   </ItemGroup>
 
